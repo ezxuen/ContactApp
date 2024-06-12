@@ -23,7 +23,7 @@ public class ContactApp {
                     break;
                 case 3:
                     System.out.println("Contact List");
-                    System.out.println(contactManager.toString());
+                    System.out.println(contactManager);
                     break;
                 case 4:
                     System.out.println("Enter filename");
