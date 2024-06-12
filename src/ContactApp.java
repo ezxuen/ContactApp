@@ -11,6 +11,7 @@ public class ContactApp {
             System.out.println("4- save Contact list to file");
             System.out.println("5- Load Contact list from file");
             System.out.println("0- Exiting program");
+
             choice = read.nextInt();
             switch (choice) {
                 case 1:
