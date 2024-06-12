@@ -6,6 +6,7 @@ public class Contact implements Serializable {
     String phoneNumber;
 
     public Contact() {
+
         this.name = "";
         this.email = "";
         this.phoneNumber = "";
